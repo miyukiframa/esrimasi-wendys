@@ -1,0 +1,44 @@
+﻿Menu,Category,Calories,Fat,Cholesterol,Sodium,Total_Carb,Sugars,Protein
+Baconator,Burgers,950,62,205,1630,40,8,59
+Dave’s Double,Burgers,810,51,175,1280,41,8,49
+Dave’s Single,Burgers,570,34,100,1110,40,9,30
+Dave’s Triple,Burgers,1090,72,260,1650,43,9,71
+Double Stack,Burgers,390,21,90,740,26,6,25
+Jr. Bacon Cheeseburger,Burgers,380,22,65,680,25,5,19
+Jr. Cheeseburger,Burgers,280,13,50,660,26,6,16
+Jr. Cheeseburger Deluxe,Burgers,340,19,55,660,27,7,16
+Son of Baconator,Burgers,630,39,125,1280,37,7,34
+3 Piece Chicken Tenders,Chicken,330,16,75,1010,22,0,24
+4 Piece Chicken Nuggets,Chicken,170,11,35,340,10,0,9
+4 Piece Chicken Tenders,Chicken,430,21,100,1350,29,1,32
+6 Picece Chicken Nuggets,Chicken,250,16,50,510,14,0,13
+6 Piece Chicken Tenders,Chicken,650,32,150,2020,43,1,48
+10 Piece Chicken Nuggets,Chicken,420,27,80,850,24,0,22
+Crispy Chicken BLT,Chicken,420,23,50,950,35,5,20
+Crispy Chicken Sandwich,Chicken,330,16,30,600,33,4,14
+Grilled Asiago Ranch Club,Chicken,530,23,120,1220,36,6,43
+Grilled Chicken Sandwich,Chicken,370,10,90,830,38,8,34
+Grilled Chicken Wrap,Chicken,270,10,55,640,24,3,20
+Homestyle Asiago Ranch Chicken Club,Chicken,660,34,100,1650,52,7,38
+Homestyle Chicken Sandwich,Chicken,510,22,70,1150,51,6,28
+S’Awesome Sauce,Chicken,120,12,0,170,4,3,1
+Spicy Asiago Ranch Club,Chicken,670,32,100,1530,55,6,38
+Spicy Chicken Sandwich,Chicken,510,20,65,1030,54,6,29
+Spicy Chicken Wrap,Chicken,370,20,50,850,30,2,18
+Artisan Egg Sandwich with Bacon,Breakfast,320,17,245,750,25,4,18
+Artisan Egg Sandwich with Sausage,Breakfast,480,33,275,980,27,4,21
+Bacon Breakfast Bowl,Breakfast,510,28,245,1390,44,2,19
+Biggie Breakfast Sandwich,Breakfast,610,40,290,1400,37,7,27
+Fresh-Baked Biscuit with Applewood Smoked Bacon,Breakfast,410,24,235,970,34,5,15
+Fresh Baked Biscuit with Natural Sausage,Breakfast,590,41,270,1270,36,6,20
+Gravy and Sausage Bowl,Breakfast,450,22,220,1260,50,2,12
+Honey Butter Chicken Biscuit,Breakfast,500,26,50,1120,48,9,19
+Sausage and Egg Burrito,Breakfast,360,20,210,920,29,2,17
+Sausage and Gravy Biscuit,Breakfast,490,29,20,1400,49,6,8
+Sausage Biscuit,Breakfast,480,33,50,1010,35,5,12
+Sausage Breakfast Bowl,Breakfast,640,42,270,1540,46,3,21
+"Seasoned Home-Style Potatoes, Large",Breakfast,360,13,0,1080,57,1,5
+"Seasoned Home-Style Potatoes, Medium",Breakfast,250,9,0,750,39,1,4
+"Seasoned Home-Style Potatoes, Small",Breakfast,230,8,0,680,35,0,3
+Two Sausage and Egg Burritos,Breakfast,720,41,420,1830,59,5,34
+Two Sausage Biscuits,Breakfast,960,65,95,2020,70,10,23
